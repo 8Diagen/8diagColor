@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.9Diagen</groupId>
-    <artifactId>aColor</artifactId>
+    <artifactId>9diagColor</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
@@ -63,11 +63,11 @@
         </repository>
         <repository>
             <id>jitpack.io</id>
-            <url>jitpack.io</url>
+            <url>https://jitpack.io</url>
         </repository>
         <repository>
             <id>github.com</id>
-            <url>https://github.com/9Diagen/aColor.git</url>
+            <url>https://github.com/9Diagen/9diagColor.git</url>
         </repository>
     </repositories>
 
