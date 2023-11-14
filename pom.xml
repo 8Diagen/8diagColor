@@ -67,7 +67,7 @@
         </repository>
         <repository>
             <id>github.com</id>
-            <url>https://github.com/9Diagen/aColor.git</url>
+            <url>https://github.com/9Diagen/aColor</url>
         </repository>
     </repositories>
 
