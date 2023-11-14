@@ -1,0 +1,4 @@
+name: aColor
+version: '${project.version}'
+main: diag.playmine.acolor.AColor
+api-version: '1.20'
