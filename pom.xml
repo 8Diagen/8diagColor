@@ -65,6 +65,10 @@
             <id>github.com</id>
             <url>https://github.com/9Diagen/aColor.git</url>
         </repository>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
     </repositories>
 
     <dependencies>
