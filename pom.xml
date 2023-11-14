@@ -63,11 +63,11 @@
         </repository>
         <repository>
             <id>jitpack.io</id>
-            <url>https://jitpack.io</url>
+            <url>jitpack.io</url>
         </repository>
         <repository>
             <id>github.com</id>
-            <url>https://github.com/9Diagen/aColor</url>
+            <url>https://github.com/9Diagen/aColor.git</url>
         </repository>
     </repositories>
 
