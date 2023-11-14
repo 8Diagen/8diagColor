@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="aColor" />
+        <module name="9diagColor" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aColor" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
