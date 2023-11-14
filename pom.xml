@@ -62,12 +62,12 @@
             <url>https://oss.sonatype.org/content/groups/public/</url>
         </repository>
         <repository>
-            <id>github.com</id>
-            <url>https://github.com/9Diagen/aColor.git</url>
-        </repository>
-        <repository>
             <id>jitpack.io</id>
             <url>https://jitpack.io</url>
+        </repository>
+        <repository>
+            <id>github.com</id>
+            <url>https://github.com/9Diagen/aColor.git</url>
         </repository>
     </repositories>
 
