@@ -12,11 +12,6 @@
       <option name="url" value="https://jitpack.io" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="github.com" />
-      <option name="name" value="github.com" />
-      <option name="url" value="https://github.com/9Diagen/aColor" />
-    </remote-repository>
-    <remote-repository>
       <option name="id" value="sonatype" />
       <option name="name" value="sonatype" />
       <option name="url" value="https://oss.sonatype.org/content/groups/public/" />
