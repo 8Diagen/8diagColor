@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.9Diagen</groupId>
-    <artifactId>9diagColor</artifactId>
+    <groupId>com.github.8Diagen</groupId>
+    <artifactId>8diagColor</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
@@ -67,7 +67,7 @@
         </repository>
         <repository>
             <id>github.com</id>
-            <url>https://github.com/9Diagen/9diagColor.git</url>
+            <url>https://github.com/8Diagen/8diagColor.git</url>
         </repository>
     </repositories>
 
